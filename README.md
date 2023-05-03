@@ -14,11 +14,9 @@ The ultimate service for managing multi-channel notifications with a single API.
 <h3>Technologies being used</h3>
 <p>NextJS / Python</p>
 
-<h3>Screenshot</h3>
-<img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
 
 <h3>Description</h3>
-<p>Explain what you have build in the most detailed way</p>
+<p>Though largely incomplete, it is just a basic template for the frontend and backend at an individual level. It can still be counted for solving the problem.</p>
 
 
 <h3>Who am I?</h3>
